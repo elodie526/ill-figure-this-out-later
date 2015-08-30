@@ -1,0 +1,31 @@
+@import url(https://fonts.googleapis.com/css?family=Gochi+Hand|Amatic+SC:700);
+
+body {
+	background-color: #0CD2E8;
+	font-family: 'Gochi Hand', cursive;
+}
+
+h1 {
+	color: #007AFF;
+	font-family: 'Amatic SC', cursive;
+}
+
+a:link, a:visited {
+	color: #0CE83E;
+}
+
+#p1 {
+	color: purple
+}
+
+#p2 {
+	color:#2700E8;
+}
+
+#p3 {
+	color: #9500E8;
+}
+
+p.hello {
+	color:#7D78FF;
+}
